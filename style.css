@@ -1,3 +1,51 @@
 div {
+    padding: 10px;
+}
+
+header {
+    text-align-last: right;
+    background-color: #4F3D7D;
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #E9D5AF;
+    background-color: #2B5A7A;
+}
+
+/* cria o espaçamento no entre os botões e o final da head */
+nav {
+    padding-right: 15px;
+}
+
+.tituloitalico {
+    font-style: italic;
+}
+
+a {
+    color: #4FA8B0;
+}
+
+.botoes {
+    color: #E9D5AF;
+    background-color: #4FA8B0;
     text-align: center;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 12px;
+}
+
+.centralizada {
+    text-align: center;
+    padding: 0px;
+    
+}
+
+#fotopessoal {
+    border-radius: 50%;
 }
