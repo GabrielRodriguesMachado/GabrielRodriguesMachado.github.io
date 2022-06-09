@@ -1,3 +1,30 @@
 div {
     text-align: center;
 }
+
+header {
+    text-align-last: right;
+    background-color: #7C83FD;
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+}
+
+.botoes {
+    color: white;
+    background-color: #96BAFF;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 12px;
+}
+
+/* cria o espaçamento no entre os botões e o final da head */
+nav {
+    padding-right: 15px;
+}
