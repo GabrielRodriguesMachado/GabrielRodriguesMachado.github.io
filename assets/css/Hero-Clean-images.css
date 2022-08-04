@@ -2,7 +2,3 @@
   object-fit: cover;
 }
 
-.btnuxui:hover, .btnuxui.active  {
-  background-color: rgb(28, 31, 35);
-  color: rgb(255, 255, 255);
-}
